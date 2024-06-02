@@ -43,6 +43,8 @@ function goResult(){
 
 function addAnswer(answerText, qIdx, idx){
   var a = document.querySelector('.answerBox');
+  a.style.display = 'flex';
+  a.style.flexDirection = 'row';
   var answer = document.createElement('button');
   answer.classList.add('answerList');
   answer.classList.add('my-3');
@@ -50,6 +52,7 @@ function addAnswer(answerText, qIdx, idx){
   answer.classList.add('mx-auto');
   answer.classList.add('fadeIn');
 
+ 
   a.appendChild(answer);
   answer.innerHTML = answerText;
 
