@@ -23,8 +23,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -34,8 +33,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -45,8 +43,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -56,8 +53,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -67,8 +63,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -79,8 +74,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -90,8 +84,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -101,8 +94,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -112,8 +104,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
       
@@ -124,8 +115,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -135,8 +125,7 @@ const qnaList = [
     a: [
       { answer: '매우 그렇다', type: [1, 2, 4, 9] },
       { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-      { answer: '조금 그렇다', type: [7, 11 ] },
-      { answer: '조금 그렇지 않다', type: [7, 11 ] },
+      { answer: '보통이다', type: [7, 11 ] },
       { answer: '그렇지 않다', type: [7, 11 ] },
       { answer: '매우 그렇지 않다', type: [7, 11 ] },
     
@@ -147,8 +136,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -158,8 +146,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -169,8 +156,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -180,8 +166,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -191,8 +176,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -202,8 +186,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -213,8 +196,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -224,8 +206,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
@@ -235,8 +216,7 @@ const qnaList = [
     a: [
     { answer: '매우 그렇다', type: [1, 2, 4, 9] },
     { answer: '그렇다', type: [0, 3, 6, 5, 10, 8] },
-    { answer: '조금 그렇다', type: [7, 11 ] },
-    { answer: '조금 그렇지 않다', type: [7, 11 ] },
+    { answer: '보통이다', type: [7, 11 ] },
     { answer: '그렇지 않다', type: [7, 11 ] },
     { answer: '매우 그렇지 않다', type: [7, 11 ] },
     ]
