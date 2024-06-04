@@ -1,29 +1,33 @@
+/* 키프레임 애니메이션 정의 */
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from { opacity: 0; } /* 애니메이션 시작 시 요소의 투명도는 0 (완전히 투명) */
+  to { opacity: 1; }   /* 애니메이션 종료 시 요소의 투명도는 1 (완전히 불투명) */
 }
 
 @keyframes fadeOut {
-  from { opacity: 1; }
-  to { opacity: 0; }
+  from { opacity: 1; } /* 애니메이션 시작 시 요소의 투명도는 1 (완전히 불투명) */
+  to { opacity: 0; }   /* 애니메이션 종료 시 요소의 투명도는 0 (완전히 투명) */
 }
 
+/* 웹킷 브라우저용(ex.safari) 키프레임 애니메이션 정의 */
 @-webkit-keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from { opacity: 0; } /* 애니메이션 시작 시 요소의 투명도는 0 (완전히 투명) */
+  to { opacity: 1; }   /* 애니메이션 종료 시 요소의 투명도는 1 (완전히 불투명) */
 }
 
 @-webkit-keyframes fadeOut {
-  from { opacity: 1; }
-  to { opacity: 0; }
+  from { opacity: 1; } /* 애니메이션 시작 시 요소의 투명도는 1 (완전히 불투명) */
+  to { opacity: 0; }   /* 애니메이션 종료 시 요소의 투명도는 0 (완전히 투명) */
 }
 
-.fadeIn{
-  animation: fadeIn;
-  animation-duration: 0.5s;
+/* fadeIn 클래스: 요소를 페이드 인(서서히 나타남, 투명->불투명) 시킴 */
+.fadeIn {
+  animation: fadeIn;         /* 사용할 애니메이션 이름은 'fadeIn' */
+  animation-duration: 0.5s;  /* 애니메이션이 0.5초 동안 지속됨 */
 }
 
-.fadeOut{
-  animation: fadeOut;
-  animation-duration: 0.5s;
+/* fadeOut 클래스: 요소를 페이드 아웃(서서히 사라짐, 불투명->투명) 시킴 */
+.fadeOut {
+  animation: fadeOut;        /* 사용할 애니메이션 이름은 'fadeOut' */
+  animation-duration: 0.5s;  /* 애니메이션이 0.5초 동안 지속됨 */
 }
